@@ -10,6 +10,6 @@ function desarrollo(){
     alert("desarrollo")
 }
 
-function sin_conflicto(){
-    alert("sin conflicto")
+function con_conflicto(){
+    alert("con conflicto")
 }
