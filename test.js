@@ -9,3 +9,7 @@ function test(){
 function desarrollo(){
     alert("desarrollo")
 }
+
+function sin_conflicto(){
+    alert("sin conflicto")
+}
