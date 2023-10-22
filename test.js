@@ -13,3 +13,7 @@ function desarrollo(){
 function con_conflicto(){
     alert("con conflicto")
 }
+
+function prueba(){
+    alert("prueba")
+}
