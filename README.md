@@ -94,4 +94,4 @@ Permite visualizar de manera detalla y descriptiva cada una de los cambios reali
 ![Alt text](image-15.png)
 
 ### hooks
-Los hooks son script que se ejecutan despues de un evento dentro de git, como por ejemplo podemos crear una funcion que se ejecute cada vez que realicemos un commit, para lo cual se debe editar el archivo pre-commit
+Los hooks son script que se ejecutan despues de un evento dentro de git, como por ejemplo podemos crear una funcion que se ejecute cada vez que realicemos un commit, para lo cual se debe editar el archivo pre-commit.
