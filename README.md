@@ -130,3 +130,16 @@ Posteriormente saldra la siguiente ventana donde colocaremos el nuevo nombre de 
 Verificamos que la operacion se realizao exitosamente
 
 ![Alt text](image-25.png)
+
+### git rebase -s
+Permite unir dos commit manteniendo la descripcion de ambos, escribimos el siguiente comando que nos traera los ultimos dos commit
+
+![Alt text](image-30.png)
+
+Nos mostrara la siguiente ventana
+
+![Alt text](image-27.png)
+
+![Alt text](image-28.png)
+
+![Alt text](image-29.png)
