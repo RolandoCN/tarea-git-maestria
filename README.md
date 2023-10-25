@@ -95,3 +95,7 @@ Permite visualizar de manera detalla y descriptiva cada una de los cambios reali
 
 ### hooks
 Los hooks son script que se ejecutan despues de un evento dentro de git, como por ejemplo podemos crear una funcion que se ejecute cada vez que realicemos un commit, para lo cual se debe editar el archivo pre-commit.
+
+
+### git rebase
+Con este comando podemos mejorar la organizacion de los commit realizados, permitiendonos opciones como traer los cambios de una rama a otro similara al git merge, asi como tambien renombrar nuestro commit realizados, fusionar commit, y fusionar commit y registrarlo con un nombre mas representativo

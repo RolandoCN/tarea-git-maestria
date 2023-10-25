@@ -9,3 +9,11 @@ function test(){
 function desarrollo(){
     alert("desarrollo")
 }
+
+function validaCampos(){
+    var datos=$("#nombre").val()
+    if(datos=="")
+    {
+       alert("Complete campo nombre")
+    }
+}
