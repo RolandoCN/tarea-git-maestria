@@ -114,5 +114,19 @@ Teniendo como resultado
 
 ![Alt text](image-21.png)
 
-### git rebase i
+### git rebase -i
 Permite renombrar un commit en especifico
+
+![Alt text](image-26.png)
+
+Una vez ingresado el comando git rebase -i mas el id del commit saldra la siguiente ventana donde colocaremos la letra r para renombrar dicho commit y despues guardamos 
+
+![Alt text](image-23.png)
+
+Posteriormente saldra la siguiente ventana donde colocaremos el nuevo nombre de nuestro commit y guardamos
+
+![Alt text](image-24.png)
+
+Verificamos que la operacion se realizao exitosamente
+
+![Alt text](image-25.png)

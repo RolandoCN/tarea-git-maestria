@@ -21,3 +21,11 @@ function prueba(){
 function validadEdad(){
     alert("edad")
 }
+
+function validadDireccion(){
+    alert("direccion")
+}
+
+function validaTelefono){
+    alert("telefono")
+}
