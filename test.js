@@ -49,4 +49,9 @@ function multiplicacio(){
     alert("multiplicacio")
 }
 
+function division(){
+    alert("division")
+}
+
+
 
