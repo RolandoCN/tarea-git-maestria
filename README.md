@@ -136,10 +136,18 @@ Permite unir dos commit manteniendo la descripcion de ambos, escribimos el sigui
 
 ![Alt text](image-30.png)
 
-Nos mostrara la siguiente ventana
+Nos mostrara la siguiente ventana. Escribimos la letra s en el segundo commit lo que permitira unir ambos commit
 
-![Alt text](image-31.png)
+![Alt text](image-32.png)
 
-![Alt text](image-28.png)
+A continuacion saldra la siguiente ventana y lo que haremos en guardar los cambios
 
-![Alt text](image-29.png)
+![Alt text](image-33.png)
+
+Por ultimo vemos el resultado en el log
+
+![Alt text](image-34.png)
+
+
+### git rebase -f
+Permite unir dos commit manteniendo solo el nombre del primer commit

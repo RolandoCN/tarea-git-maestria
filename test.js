@@ -36,3 +36,11 @@ function validaCelular(){
 function validaEmail(){
     alert("telefono")
 }
+
+function suma(){
+    alert("suma")
+}
+
+function resta(){
+    alert("resta")
+}
