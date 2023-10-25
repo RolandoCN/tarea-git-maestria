@@ -98,4 +98,9 @@ Los hooks son script que se ejecutan despues de un evento dentro de git, como po
 
 
 ### git rebase
-Con este comando podemos mejorar la organizacion de los commit realizados, permitiendonos opciones como traer los cambios de una rama a otro similara al git merge, asi como tambien renombrar nuestro commit realizados, fusionar commit, y fusionar commit y registrarlo con un nombre mas representativo
+Con este comando podemos mejorar la organizacion de los commit realizados, permitiendonos opciones como traer los cambios de una rama a otro similara al git merge, asi como tambien renombrar nuestro commit realizados, fusionar commit, y fusionar commit y registrarlo con un nombre mas representativo.
+A continuacion se muestra los cambios realizado en la rama main, que fue la funcion de validar campos.
+
+![Alt text](image-17.png)
+
+Ahora realizaremos cambios en la rama desarrollo, la cual la denominaremos, calcularTotal.
