@@ -44,3 +44,9 @@ function suma(){
 function resta(){
     alert("resta")
 }
+
+function multiplicacio(){
+    alert("multiplicacio")
+}
+
+
