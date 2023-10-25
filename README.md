@@ -154,15 +154,13 @@ Permite unir dos commit manteniendo solo el nombre del primer commit
 
 ![Alt text](image-35.png)
 
-En este ejemplo uniremos los dos commit de la imagen anterior, pero mantendra el nombre del primer commit
-
+En este ejemplo uniremos los dos commit de la imagen anterior, pero mantendra el nombre del primer commit 
 
 ![Alt text](image-36.png)
 
 ### git rebase -r git rebase -f
 Con este uniremos dos commit y lo renombraremos
 
-![Alt text](image-38.png)
-
-
 ![Alt text](image-37.png)
+
+![Alt text](image-39.png)
