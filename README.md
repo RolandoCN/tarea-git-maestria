@@ -160,3 +160,5 @@ En este ejemplo uniremos los dos commit de la imagen anterior, pero mantendra el
 
 ### git rebase -r git rebase -f
 Con este uniremos dos commit y lo renombraremos
+
+![Alt text](image-37.png)
