@@ -103,4 +103,16 @@ A continuacion se muestra los cambios realizado en la rama main, que fue la func
 
 ![Alt text](image-17.png)
 
-Ahora realizaremos cambios en la rama desarrollo, la cual la denominaremos, calcularTotal.
+Ahora realizaremos cambios en la rama desarrollo, la cual la denominaremos, calcularTotal2.
+
+![Alt text](image-20.png)
+
+Ahora realizamos git rebase para obtener los cambios en la rama desarrollo de lo realizado en main
+![Alt text](image-18.png)
+
+Teniendo como resultado
+
+![Alt text](image-21.png)
+
+### git rebase i
+Permite renombrar un commit en especifico

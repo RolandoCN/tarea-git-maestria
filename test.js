@@ -17,3 +17,7 @@ function con_conflicto(){
 function prueba(){
     alert("prueba")
 }
+
+function validadEdad(){
+    alert("edad")
+}
