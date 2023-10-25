@@ -26,6 +26,13 @@ function validadDireccion(){
     alert("direccion")
 }
 
-function validaTelefono){
+function validaTelefono(){
+    alert("telefono")
+}
+
+function validaCelular(){
+    alert("telefono")
+}
+function validaEmail(){
     alert("telefono")
 }

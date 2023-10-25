@@ -138,7 +138,7 @@ Permite unir dos commit manteniendo la descripcion de ambos, escribimos el sigui
 
 Nos mostrara la siguiente ventana
 
-![Alt text](image-27.png)
+![Alt text](image-31.png)
 
 ![Alt text](image-28.png)
 
