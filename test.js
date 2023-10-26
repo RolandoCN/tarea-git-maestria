@@ -53,5 +53,7 @@ function division(){
     alert("division")
 }
 
-
+function otro(){
+    alert("division")
+}
 
