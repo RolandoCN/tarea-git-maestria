@@ -164,3 +164,7 @@ Con este uniremos dos commit y lo renombraremos
 ![Alt text](image-37.png)
 
 ![Alt text](image-39.png)
+
+
+
+![Alt text](image-40.png)
