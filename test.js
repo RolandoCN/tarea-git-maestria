@@ -56,3 +56,6 @@ function otro(){
     alert("division")
 }
 
+function temporal(){
+    alert("temporal")
+}
