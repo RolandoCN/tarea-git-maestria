@@ -59,7 +59,3 @@ function otro(){
 function temporal(){
     alert("temporal")
 }
-
-function revertir(){
-    alert("revertir")
-}
