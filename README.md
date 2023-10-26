@@ -193,4 +193,14 @@ Con este comando podemos aplicar los cambios de un stash en especifico pero no d
 ![Alt text](image-44.png)
 
 ### git cherry-pick
-Permite obtener los cambios de un commit de una rama a otra sin necesidad de hacer git-merge
+Permite obtener los cambios de un commit de una rama a otra sin necesidad de hacer git-merge.
+En este ejemplo crearemos una funcion denominada temporal en la rama desarrollo, la cual le pondremos de nombre cambio temporal en el commit
+
+![Alt text](image-45.png)
+
+Luego volveremos a la rama main y traeremos ese cambio de ese commit a esta rama con el comando git cherry-pick mas el id del commit
+
+![Alt text](image-46.png)
+
+### git revert <<commit>>
+Permite revertir cambios en caso de problemas o errores al momento de subir cambios
