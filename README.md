@@ -167,6 +167,30 @@ En este ejemplo hemos usado dos commit como son multiplicacion y division y lo h
 
 ![Alt text](image-39.png)
 
-
+### git stash
+Permite almacenar de manera temporal los cambios realizados sin necesidad de usar el git commit
 
 ![Alt text](image-40.png)
+
+### git stash list
+Con este comando podemos visualizar el listado de cambios temporales almacenado 
+
+![Alt text](image-41.png)
+
+### git stash pop
+Permite aplicar los cambios y quitarlos de la pila de almacenamiento
+
+![Alt text](image-42.png)
+
+### git stash apply stash@{0}
+Con este comando podemos aplicar los cambios de un stash en especifico, y nos deja una copia en la memoria temporal
+
+![Alt text](image-43.png)
+
+### git stash pop stash@{0}
+Con este comando podemos aplicar los cambios de un stash en especifico pero no deja copia del stash seleccionado en memoria
+
+![Alt text](image-44.png)
+
+### git cherry-pick
+Permite obtener los cambios de un commit de una rama a otra sin necesidad de hacer git-merge
