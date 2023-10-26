@@ -203,4 +203,16 @@ Luego volveremos a la rama main y traeremos ese cambio de ese commit a esta rama
 ![Alt text](image-46.png)
 
 ### git revert <<commit>>
-Permite revertir cambios en caso de problemas o errores al momento de subir cambios
+Permite revertir cambios en caso de problemas o errores al momento de subir cambios. En este ejemplo hemos subido un cambio y al commit le hemos denominado ejemplo revertir2
+
+![Alt text](image-48.png)
+
+Si deseamos revertir o quitar ese cambio debemos usar git revert mas el id del commit
+
+![Alt text](image-49.png)
+
+![Alt text](image-47.png)
+
+
+
+Si deseamos volver a obtener el cambio revertido debemos revertir dicha reversion
