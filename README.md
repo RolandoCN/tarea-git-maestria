@@ -159,9 +159,11 @@ En este ejemplo uniremos los dos commit de la imagen anterior, pero mantendra el
 ![Alt text](image-36.png)
 
 ### git rebase -r git rebase -f
-Con este uniremos dos commit y lo renombraremos
+Con este uniremos dos commit y lo renombraremos con algo mas descriptivo
 
 ![Alt text](image-37.png)
+
+En este ejemplo hemos usado dos commit como son multiplicacion y division y lo hemos renombrado como operaciones
 
 ![Alt text](image-39.png)
 
