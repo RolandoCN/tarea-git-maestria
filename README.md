@@ -96,7 +96,20 @@ Permite visualizar de manera detalla y descriptiva cada una de los cambios reali
 ### hooks
 Los hooks son script que se ejecutan despues de un evento dentro de git, como por ejemplo podemos crear una funcion que se ejecute cada vez que realicemos un commit, para lo cual se debe editar el archivo pre-commit.
 
+En el siguiente ejemplo hemos configurado el archivo pre-commit que lo que hara es ejecutar un mensaje por pantalla
 
+![Alt text](image-50.png)
+
+El mensaje que mostrara por pantalla cada vez que hagamos commit sera "vamos hacer un commit"
+
+![Alt text](image-51.png)
+
+Si queremos omitir la funcion o mensaje creada en el precommit debemos agregar al final de cada commit -m
+
+### git ignore
+Es un archivo donde podemos colocar los archivos y carpetas que sea ignoradas al momento de subir un cambio es decir que si tenemos un proyecto con informacion estatica o confidencial y deseamos que no sean subidas al hacer un commit debemos agregar el nombre de la misma dentro de este directorio.
+
+![Alt text](image-52.png)
 ### git rebase
 Con este comando podemos mejorar la organizacion de los commit realizados, permitiendonos opciones como traer los cambios de una rama a otro similara al git merge, asi como tambien renombrar nuestro commit realizados, fusionar commit, y fusionar commit y registrarlo con un nombre mas representativo.
 A continuacion se muestra los cambios realizado en la rama main, que fue la funcion de validar campos.
@@ -212,6 +225,9 @@ Si deseamos revertir o quitar ese cambio debemos usar git revert mas el id del c
 ![Alt text](image-49.png)
 
 ![Alt text](image-47.png)
+
+
+
 
 
 

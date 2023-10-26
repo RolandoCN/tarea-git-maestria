@@ -59,3 +59,7 @@ function otro(){
 function temporal(){
     alert("temporal")
 }
+
+function precommit(){
+    alert("precommit")
+}
