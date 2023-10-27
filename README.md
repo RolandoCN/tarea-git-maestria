@@ -228,7 +228,36 @@ Si deseamos revertir o quitar ese cambio debemos usar git revert mas el id del c
 
 
 
-
-
-
 Si deseamos volver a obtener el cambio revertido debemos revertir dicha reversion
+
+### Repositorio remoto
+Una vez creada nuestra cuenta de git hub creamos un nuevo repositorio, para lo cual abrimos la pagina de git hub y creamos un nuevo repositorio, para este ejemplo le pondremos repo_maestria y lo pondremos tipo publico
+
+![Alt text](image-53.png)
+
+![Alt text](image-54.png)
+
+### git remote
+Para este ejemplo vamos a usar un repositorio existente y lo subiremos a git hub, para lo cual usaremos el comando git remote add origin mas la direccion del repositorio creado en el paso anterior
+
+![Alt text](image-55.png)
+
+### git remote -v
+Permite ver si el paso anterior se realizo correctamente, ya que nos permite visualizar si el repositorio local fue vinculado al repositorio remoto.
+
+### git branch -M main
+Ahora nos cambiaremos a la rama main, con el comando git branch -M main
+
+![Alt text](image-56.png)
+
+### git push -u origin main
+Por ultimo subimos los cambios al repositorio remoto en la rama principal main
+
+![Alt text](image-57.png)
+
+Con esto ya podemos visualizar y tener nuestro codigo en la nube, dentro del repositorio de git hub
+
+### git clone
+Con este comando podemos clonar un repositorio remoto existente en nuestra computadora de trabajo y empezar a trabajar en el, a continuacion vemos un ejemplo.
+
+![Alt text](image-58.png)
